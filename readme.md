@@ -8,9 +8,9 @@ Se realizó un **diseño UX/IU** para el **_CONSEJO ECONÓMICO Y SOCIAL_** de un
 
 El mismo se basó en páginas internas del gobierno.
 
-A pesar de la poca estandarización de los sitios, se respetó el patrón de colores encontrado y se complio con las disposiciones del cliente.
+A pesar de la poca estandarización de los sitios, se respetó el patrón de colores encontrado y se complió con las disposiciones del cliente.
 
-Se compuso guía de estilos y se vectorizo algunos íconos, al igual que el diseño de las distintas páginas: Inicio, institucional, publicaciones, contactos, vías de financiamiento.
+Se compuso guía de estilos y se vectorizó algunos íconos, al igual que el diseño de las distintas páginas: Inicio, institucional, publicaciones, contactos, vías de financiamiento.
 
 ##Images del proyecto
 
