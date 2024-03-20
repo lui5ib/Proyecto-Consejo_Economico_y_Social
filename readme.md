@@ -37,3 +37,7 @@ Se compuso guía de estilos y se vectorizo algunos íconos, al igual que el dise
 ### Vías de Financiamiento:
 
 ![](6-%20Vías%20de%20Financiamiento.png)
+
+### Publicaciones - Libro:
+
+![](7-%20Publicaciones%20-%20Libro.png)
